@@ -70,3 +70,7 @@
     <img src="https://komarev.com/ghpvc/?username=mystericvalley">
 </a>
 <a href="https://github.com/mystericvalley?tab=followers"><img src="https://img.shields.io/github/followers/mystericvalley?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<p align="center">
+  <img src="https://github.com/mystericvalley/mystericvalley/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
